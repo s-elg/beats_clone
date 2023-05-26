@@ -1,0 +1,251 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto Slab', serif;;
+}
+
+.navbar{
+    background-image: url(./img/background_1.png);
+    height: 840px;
+    background-repeat: no-repeat;
+}    
+
+.sembol{
+    position: relative;
+    left: 150px;
+    top: 50px;
+    height: 115px;
+}
+
+.icerik1_1{
+    margin-right: 150px;
+    text-align: right;
+    justify-content: right;
+    color: white;
+    margin-top: 200px;
+}
+
+.icerik1_1 h1{
+    color: #f15048;
+    font-size: 96px;
+}
+
+.icerik1_1 h3{
+    font-size: 72px;
+}
+
+.icerik1_1 p{
+    font-size: 18px;
+    font-style: italic;
+    margin: 20px 6px 0;
+}
+
+.button{
+    text-decoration: none;
+    color: white;
+    border: #f15048 solid 1px;
+    background-color: #f15048;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px 30px;
+}
+
+.kulaklık{
+    display: inline;
+    position: relative;
+    top: -65px;
+    height: 750px;
+    right: 50px;
+}
+
+.icerik2{
+    display: flex;
+}
+
+.icerik2_1{
+    position: relative;
+    /* border: 1px solid black; */
+    margin: 150px 50px 0 200px;
+}  
+
+.icerik2_1 h2{
+    font-size: 48px;
+}
+
+.icerik2_1 h6{
+    font-size: 20px;
+}
+
+.icerik2_1 p{
+    font-style: italic;
+    font-size: 14px;
+}
+
+.apple{
+    margin-top: 25px;
+}
+
+.icerik3{
+    display: flex;
+    justify-content: center;
+}
+
+.model{
+    position: relative;
+    height: 450px;
+    right: 150px;
+}
+
+.icerik3_2{
+    position: relative;
+    margin-left: 200px;
+    margin-right: 200px;
+    z-index: 1;
+    top: -395px;
+}
+
+.icerik4_1{
+    position: relative;
+    top: -538px;
+    margin-left: 1000px;
+    margin-right: 110px;
+    text-align: right;
+}
+
+.icerik4{
+    position: relative;
+    top: -220px;
+}
+
+.gri{
+    width: 1519px;
+}
+
+.icerik5{
+    position: relative;
+    top: -570px;
+}
+
+.urunler_navbar{
+    text-align: center;
+}
+
+.urunler_navbar h2{
+    font-weight: bolder;
+    font-size: 48px;
+}
+
+.urunler_navbar h6{
+    font-size: 18px;
+    font-weight: light;
+}
+
+.urunler{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+}
+
+.urun{
+    text-align: center;
+}
+
+.urun h4{
+    font-size: 20px;
+    width: 160px;
+    margin: auto;
+    padding: auto;
+    font-weight: lighter;
+}
+
+.urun p{
+    font-weight: bold;
+}
+
+.video{
+    position: relative;
+    top: -215px;
+}
+
+.kutu_icerik{
+    position: relative;
+    top: -384px;
+}
+
+.icerik6{
+    display: flex;
+    justify-content: center;
+}
+
+.nevar{
+    height: 549.6px;
+}
+
+.icerik_list{
+    text-align: left;
+    padding-top: 45px;
+}
+
+.icerik_list ul{
+    pointer-events: inherit;
+    font-style: italic;
+    line-height: 1cm;
+    padding-left: 16px;
+}
+
+.foto{
+    position: relative;
+    top: -257px;
+}
+
+.foto_1{
+    display: flex;
+    gap: 200px;
+}
+
+.black{
+    height: 800px;
+}
+
+.black_1{
+    height: 400px;
+}
+
+.teknik2{
+    display: flex;
+    gap: 100px;
+    margin-left: 185px;
+    
+}
+
+.teknik_foto{
+    height: 462px;
+}
+
+.listeler{
+    display: flex;
+    gap: 75px;
+    justify-content: center;
+}
+
+.list h6{
+    font-size: 20px;
+}
+
+.list ul{
+    padding-left: 16px;
+    font-style: italic;
+    line-height: 1cm;
+}
+
+.teknik_list{
+    margin-right: 85px; 
+    width: 1500px;
+}
+
+.teknik{
+    position: relative;
+    top: -150px;
+}
